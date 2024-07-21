@@ -26,3 +26,4 @@ Right now Enjoy and feel free to Use the Code for your own Projects.
 - **Google Fonts:** For typography (Poppins).
 - **SVG Icons:** For visual elements in the navigation bar.
 
+Also Check Out the Original site of UltraEdit: https://www.ultraedit.com/downloads/ultraedit-download-thank-you/
